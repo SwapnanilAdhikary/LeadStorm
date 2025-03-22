@@ -15,5 +15,7 @@ LeadStorm is an AI-driven lead generation tool that combines web scraping, Gemin
 
 1. **Clone the Repository:**
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-directory>
+   git clone https://github.com/SwapnanilAdhikary/LeadStorm.git
+   cd Lead generation Tool development
+
+
