@@ -2,7 +2,8 @@
 
 LeadStorm is an AI-driven lead generation tool that combines web scraping, Gemini AI content generation, and CSV export in a single, interactive Streamlit UI. With LeadStorm, you can input custom lead generation queries, fetch and analyze potential leads, and download a CSV file containing predicted company names, summaries, contact emails, and decision-maker names.
 
-![LeadStorm UI Screenshot](LeadStorm/Screenshot 2025-03-22 204901.png)
+
+<img src="Screenshot 2025-03-22 203945.png" alt="Pixel Art Example" width="300">
 
 
 ## Features
