@@ -17,5 +17,6 @@ LeadStorm is an AI-driven lead generation tool that combines web scraping, Gemin
    ```bash
    git clone https://github.com/SwapnanilAdhikary/LeadStorm.git
    cd Lead generation Tool development
+   pip install requirement.txt
 
 
